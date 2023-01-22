@@ -1,4 +1,10 @@
-### Hi there 👋
+Oie! 
+
+Aqui nesse espaço existem projetos pessoais e da faculdade.
+
+##
+
+Sou iniciante na programação e estou no 1° semestre de engenharia de software :)
 
 <!--
 **kaianes/kaianes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
